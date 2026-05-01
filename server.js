@@ -15,7 +15,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://internship-portal-frontend-six.vercel.app"
+      "https://interverse-frontend-sigma.vercel.app/"
     ],
     credentials: true
   })
